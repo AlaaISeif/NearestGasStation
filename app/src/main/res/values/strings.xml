@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YourGasStation</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_menu_navigator">MenuNavigator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="userProblem">Have a problem ? </string>
+
+</resources>

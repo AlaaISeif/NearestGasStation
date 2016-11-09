@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/gas_station"
+            android:title="Find gas station" />
+        <item
+            android:id="@+id/nav_problem"
+            android:icon="@drawable/help"
+            android:title="Have a problem ?" />
+    </group>
+
+
+</menu>
